@@ -1,0 +1,26 @@
+{
+    "asset_001":
+    {
+        "name": "rubbertoy",
+        "author": "sidefx",
+        "link": "https://drive.google.com/file/d/1XatFV5VlET4lJRvWu7wYSuqK8xAzfv3z/view?usp=drive_link",
+        "local_path": "week03/google_drive/asset_local/rubbertoy.obj",
+        "format": "obj" 
+    },
+    "asset_002":
+    {
+        "name": "pighead",
+        "author": "sidefx",
+        "link": "https://drive.google.com/file/d/18s1kg6z2ynaVOG28arnBLBeAahAS6ej-/view?usp=drive_link",
+        "local_path": "week03/google_drive/asset_local/pighead.obj",
+        "format": "obj"
+    },
+    "asset_003":
+    {
+        "name": "head",
+        "author": "sidefx",
+        "link": "https://drive.google.com/file/d/1NG1hk4kzTgUiVJt0rInWzOiLNC1L0GPd/view?usp=drive_link",
+        "local_path": "week03/google_drive/asset_local/head.obj",
+        "format": "obj"
+    }
+}
