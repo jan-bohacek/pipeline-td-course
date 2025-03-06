@@ -1,2 +1,7 @@
 venv
 backup
+client_secrets.json
+credentials
+*.obj
+backup
+desktop.ini
