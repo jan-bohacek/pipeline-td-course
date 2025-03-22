@@ -1,0 +1,68 @@
+{
+    "employee_01":
+    {
+        "name": "Jacob Black",
+        "title": "FX Artist",
+        "age": 21,
+        "shows":
+        [
+            "col",
+            "tar",
+            "hypno"
+        ]
+    },
+    "employee_02":
+    {
+        "name": "Carl Lean",
+        "title": "Animator",
+        "age": 52,
+        "shows":
+        [
+            "col"
+        ]
+    },
+    "employee_03":
+    {
+        "name": "Jorge Hernandez",
+        "title": "VFX Coordinator",
+        "age": 45,
+        "shows":
+        [
+            "hypno"
+        ]
+    },
+    "employee_04":
+    {
+        "name": "Dmitri Volokin",
+        "title": "Lighter",
+        "age": 35,
+        "shows":
+        [
+            "col",
+            "tar",
+            "string"
+        ]
+    },
+    "employee_05":
+    {
+        "name": "Sandra Donnell",
+        "title": "CFX Artist",
+        "age": 24,
+        "shows":
+        [
+            "tar",
+            "string"
+        ]
+    },
+    "employee_06":
+    {
+        "name": "Adelle Sunny",
+        "title": "Modeller",
+        "age": 36,
+        "shows":
+        [
+            "col",
+            "string"
+        ]
+    }
+}
